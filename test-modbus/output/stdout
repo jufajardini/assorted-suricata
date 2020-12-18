@@ -1,0 +1,4 @@
+[37209] 18/12/2020 -- 13:33:29 - (suricata.c:1065) <Notice> (LogVersion) -- This is Suricata version 7.0.0-dev (372fc2673 2020-12-11) running in USER mode
+[37209] 18/12/2020 -- 13:33:29 - (util-cpu.c:178) <Info> (UtilCpuPrintSummary) -- CPUs/cores online: 4
+[37209] 18/12/2020 -- 13:33:29 - (app-layer-newmodbus.c:50) <Notice> (RegisterNewModbusParsers) -- Registering Rust newmodbus parser.
+[37209] 18/12/2020 -- 13:33:29 - (newmodbus.rs:600) <Notice> (suricata::applayernewmodbus::newmodbus::rs_newmodbus_register_parser) -- Rust newmodbus parser registered.

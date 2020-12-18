@@ -1,0 +1,2 @@
+[37209] 18/12/2020 -- 13:33:29 - (detect-engine-port.c:1187) <Error> (DetectPortTestConfVars) -- [ERRCODE: SC_ERR_INVALID_YAML_CONF_ENTRY(139)] - Port var "modbus" probably has a sequence(something in brackets) value set without any quotes. Please quote it using "..".
+[37209] 18/12/2020 -- 13:33:29 - (suricata.c:2553) <Error> (PostConfLoadedSetup) -- [ERRCODE: SC_ERR_INVALID_YAML_CONF_ENTRY(139)] - basic port vars test failed. Please check /home/ju/Workplace/OISF/suricata-verify/tests/test-modbus/suricata.yaml for errors

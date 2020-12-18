@@ -1,0 +1,4 @@
+skip:
+  # Skip a test if a feature is present, with a message that is logged.
+  - feature: 
+    msg: modbus protocol not supported by rust (yet)
